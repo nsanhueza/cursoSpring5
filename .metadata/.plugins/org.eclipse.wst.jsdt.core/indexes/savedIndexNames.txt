@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+C:\Users\Tinet\eclipse-workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1127921877.index
+1539831495.index
+3618293237.index
+706069797.index
+2657678075.index
